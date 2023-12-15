@@ -1,7 +1,7 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Início",
       "url": "/"
     },
     {
@@ -9,11 +9,11 @@
       "url": "/blogs"
     },
     {
-      "name": "Pricing",
-      "url": "/pricing"
+      "name": "Sobre nós",
+      "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Contato",
       "url": "/contact"
     },
     {
@@ -23,20 +23,20 @@
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Empresa",
       "menu": [
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Sobre nós",
+          "url": "/about"
         },
         {
-          "text": "Quick Start",
+          "text": "Parcerias",
           "url": "#"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "Produtos",
       "menu": [
         {
           "text": "Features",
@@ -47,8 +47,8 @@
           "url": "#"
         },
         {
-          "text": "Pricing",
-          "url": "/pricing"
+          "text": "Sobre nós",
+          "url": "/about"
         }
       ]
     },

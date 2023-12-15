@@ -1,12 +1,12 @@
 {
   "site": {
-    "title": "Bigspring Light Nextjs",
+    "title": "Atom Website",
     "base_url": "/",
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
+    "favicon": "/images/logoAtom.png",
+    "logo": "/images/logoComNomePreto.png",
     "logo_width": "200",
     "logo_height": "48",
-    "logo_text": "Bigspring Light"
+    "logo_text": "Atom"
   },
 
   "settings": {
@@ -17,14 +17,14 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Fale com a gente",
     "link": "/contact"
   },
 
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "© 2021 Atom Dev Studio. Todos os direitos reservados.",
     "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
   },
 
