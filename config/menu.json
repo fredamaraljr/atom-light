@@ -15,10 +15,6 @@
     {
       "name": "Contato",
       "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
     }
   ],
   "footer": [
@@ -28,10 +24,6 @@
         {
           "text": "Sobre nós",
           "url": "/about"
-        },
-        {
-          "text": "Parcerias",
-          "url": "#"
         }
       ]
     },
@@ -39,32 +31,28 @@
       "name": "Produtos",
       "menu": [
         {
-          "text": "Features",
+          "text": "Funcionalidades",
           "url": "#"
         },
         {
-          "text": "Platform",
+          "text": "Testemunhos",
           "url": "#"
-        },
-        {
-          "text": "Sobre nós",
-          "url": "/about"
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Suporte",
       "menu": [
         {
-          "text": "FAQ",
-          "url": "/faq"
+          "text": "",
+          "url": ""
         },
         {
-          "text": "Privacy Policy",
+          "text": "Políticas de privacidade",
           "url": "#"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "Termos e condições",
           "url": "#"
         }
       ]

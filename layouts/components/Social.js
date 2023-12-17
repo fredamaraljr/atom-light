@@ -66,24 +66,24 @@ const Social = ({ source, className }) => {
   } = source;
   return (
     <ul className={className}>
-      {facebook && (
+      {/* {whatsapp && (
         <li className="inline-block">
           <a
-            aria-label="facebook"
-            href={facebook}
+            aria-label="whatsapp"
+            href={whatsapp}
             target="_blank"
             rel="noopener noreferrer nofollow"
           >
-            <IoLogoFacebook />
+            <IoLogoWhatsapp />
           </a>
         </li>
-      )}
+      )} */}
       {twitter && (
         <li className="inline-block">
           <a
             aria-label="twitter"
             href={twitter}
-            target="_blank"
+            target="www.google.com"
             rel="noopener noreferrer nofollow"
           >
             <IoLogoTwitter />

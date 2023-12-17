@@ -22,7 +22,7 @@ const Contact = ({ data }) => {
                   className="form-input w-full rounded"
                   name="name"
                   type="text"
-                  placeholder="Name"
+                  placeholder="Nome"
                   required
                 />
               </div>
@@ -31,7 +31,7 @@ const Contact = ({ data }) => {
                   className="form-input w-full rounded"
                   name="email"
                   type="email"
-                  placeholder="Your email"
+                  placeholder="Seu melhor email"
                   required
                 />
               </div>
@@ -40,7 +40,7 @@ const Contact = ({ data }) => {
                   className="form-input w-full rounded"
                   name="subject"
                   type="text"
-                  placeholder="Subject"
+                  placeholder="Assunto"
                   required
                 />
               </div>
@@ -48,24 +48,24 @@ const Contact = ({ data }) => {
                 <textarea
                   className="form-textarea w-full rounded-md"
                   rows="7"
-                  placeholder="Your message"
+                  placeholder="Sua mensagem"
                 />
               </div>
               <button type="submit" className="btn btn-primary">
-                Send Now
+                Enviar
               </button>
             </form>
           </div>
           <div className="content col-12 md:col-6 lg:col-5">
             {markdownify(info.title, "h4")}
             {markdownify(info.description, "p", "mt-4")}
-            <ul className="contact-list mt-5">
+            {/* <ul className="contact-list mt-5">
               {info.contacts.map((contact, index) => (
                 <li key={index}>
                   {markdownify(contact, "strong", "text-dark")}
                 </li>
               ))}
-            </ul>
+            </ul> */}
           </div>
         </div>
       </div>

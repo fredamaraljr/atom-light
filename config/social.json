@@ -1,9 +1,9 @@
 {
-  "facebook": "https://facebook.com/",
-  "twitter": "https://twitter.com/",
-  "instagram": "",
+  "facebook": "",
+  "twitter": "",
+  "instagram": "https://www.instagram.com/atomdevstudio/",
   "youtube": "",
-  "linkedin": "https://linkedin.com/",
+  "linkedin": "https://www.linkedin.com/company/atom-dev",
   "github": "",
   "gitlab": "",
   "discord": "",
@@ -18,7 +18,7 @@
   "tumblr": "",
   "reddit": "",
   "vk": "",
-  "whatsapp": "",
+  "whatsapp": " https://wa.me//5581994913552?text=Quero%20saber%20mais%20sobre%20a%20Atom.",
   "snapchat": "",
   "vimeo": "",
   "tiktok": "",
@@ -27,6 +27,6 @@
   "email": "",
   "phone": "",
   "address": "",
-  "skype": "https://skype.com/",
+  "skype": "",
   "website": ""
 }

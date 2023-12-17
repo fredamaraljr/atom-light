@@ -114,7 +114,7 @@ const Home = ({ frontmatter }) => {
                   }`}
                 >
                   <h2 className="font-bold leading-[40px]">{service?.title}</h2>
-                  <p className="mt-4 mb-2">{service?.content}</p>
+                  <p className="mb-2 mt-4">{service?.content}</p>
                   {service.button.enable && (
                     <Link
                       href={service?.button.link}
@@ -138,7 +138,7 @@ const Home = ({ frontmatter }) => {
       })}
 
       {/* workflow */}
-      <section className="section pb-0">
+      {/* <section className="section pb-0">
         <div className="mb-8 text-center">
           {markdownify(
             workflow.title,
@@ -153,7 +153,7 @@ const Home = ({ frontmatter }) => {
           width={1920}
           height={296}
         />
-      </section>
+      </section> */}
 
       {/* Cta */}
       <Cta cta={call_to_action} />
