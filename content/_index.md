@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Usando tecnologia para poupar tempo
+  title: Teste tecnologia para poupar tempo
   content: Na Atom Dev Studio, criamos ferramentas que automatizam tarefas tediosas,<br/> liberando você para utilizar seu tempo com o que te deixa feliz.
   image: /images/banner-art.svg
   button:
